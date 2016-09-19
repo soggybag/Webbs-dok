@@ -1,31 +1,42 @@
 # Webbs Depth of Knowledge
 
 # Level 1
+
 ## Recall 
-- Identify
+
 - Assess
-- Recall
-- Memorize
-- List
+- Define
+- Identify
 - Illustrate 
+- List
 - Measure
+- Memorize
+- Recall
 - Use
 
-
 # Level 2
-## Skill/Concept
-- Formulate
-- Envision
-- Theorize
 
+## Skill/Concept
+
+- Envision
+- Formulate
+- Theorize
+- 
 
 # Level 3
+
 ## Strategic Thinking
+
+- Build
+- Construct
 - Strategize
 - 
 
 # Level 4
+
 ## Extended Thinking
+
+- 
 
 
 
